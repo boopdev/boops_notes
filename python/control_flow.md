@@ -1,4 +1,4 @@
-**What is "Control Flow"?
+**What is "Control Flow"?**
 
 Control flow can be defined as the order in which individual statements, instructions, or function calls of a program are executed or evaluated. This is most commonly dictated using `if/elif/else` statements. These **conditional statements** are commonly used to check if a condition is satisfied or not, and then proceeds to do something in that case, this is the common use-case when it comes to `if`. `elif` however, runs only if the previous condition was not met, and provided it meets the corresponding condition, you can have multiple `elif` statements. `else` statements simply tells the program what to do if no condition was satisfied.
 
