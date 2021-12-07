@@ -9,7 +9,6 @@ def printPoggers():
 Where "printPoggers", is the function name, and the code block beneath it is what is ran when the function is "called"
 
 Calling the function can be done with the syntax: `printPoggers()` anywhere after the definition of the function in your program. (Obviously take into account that "printPoggers" is the name of the function).
-
 ---
 **Functions with Arguments**
 The utility of functions doesn't stop at being able to run code while writing less, you can also pass **arguments** to functions, which allow you to utilize values within those functions and potentially produce an output that you may find useful later on in your program.
